@@ -1,5 +1,12 @@
+
 # Book Recommendation System
 
+## **TO DO**
+ - [ ] Add feature to allow users to add their Read Books 
+ - [ ] Create a proper Frontend and Backend for the website
+ - [ ] Create Login and Signup Page
+ - [ ] Host the Website 
+ 
 ## Overview
 
 This project is a book recommendation system built using Python, Streamlit, and scikit-learn's Nearest Neighbors algorithm. The system recommends books to users based on various criteria, including publishers, authors, and languages.
